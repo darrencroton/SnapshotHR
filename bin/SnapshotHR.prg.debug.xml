@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="33" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="35" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="37" pc="268435478" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="39" pc="268435485" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="40" pc="268435492" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="41" pc="268435502" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="42" pc="268435515" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="43" pc="268435528" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="45" pc="268435541" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="49" pc="268435579" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="50" pc="268435590" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="51" pc="268435623" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="52" pc="268435662" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="53" pc="268435701" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="54" pc="268435740" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="57" pc="268435782" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="58" pc="268435793" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="59" pc="268435813" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="60" pc="268435833" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="62" pc="268435856" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="63" pc="268435876" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="64" pc="268435896" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="67" pc="268435916" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="68" pc="268435946" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="69" pc="268435962" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="72" pc="268435991" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="73" pc="268436004" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="74" pc="268436017" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="75" pc="268436030" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="80" pc="268436145" symbol="onLayout"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="83" pc="268436150" symbol="onShow"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="86" pc="268436155" symbol="onHide"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="90" pc="268436160" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="92" pc="268436164" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="93" pc="268436192" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="94" pc="268436204" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="96" pc="268436236" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="97" pc="268436280" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="99" pc="268436324" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="103" pc="268436341" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="107" pc="268436388" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="111" pc="268436405" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="115" pc="268436452" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="117" pc="268436496" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="119" pc="268436510" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="120" pc="268436538" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="121" pc="268436570" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="126" pc="268436605" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="127" pc="268436605" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="129" pc="268436605" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="131" pc="268436635" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="132" pc="268436654" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="133" pc="268436665" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="136" pc="268436690" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="138" pc="268436710" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="140" pc="268436754" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="141" pc="268436812" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="142" pc="268436823" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="144" pc="268436844" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="147" pc="268436854" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="155" pc="268436926" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="156" pc="268436940" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="158" pc="268436979" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="161" pc="268437011" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="162" pc="268437043" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="164" pc="268437075" symbol="onUpdate"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="168" pc="268437079" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="170" pc="268437083" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="172" pc="268437099" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="174" pc="268437177" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="175" pc="268437202" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="177" pc="268437224" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="179" pc="268437241" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="181" pc="268437284" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="182" pc="268437357" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="184" pc="268437455" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="186" pc="268437553" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="188" pc="268437651" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="190" pc="268437711" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="193" pc="268437736" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="194" pc="268437749" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="196" pc="268437762" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="197" pc="268437792" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="199" pc="268437812" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="200" pc="268437835" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="202" pc="268437880" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="208" pc="268437918" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="209" pc="268437949" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="211" pc="268437980" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="212" pc="268437997" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="214" pc="268438013" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="215" pc="268438030" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="220" pc="268438046" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="221" pc="268438068" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="222" pc="268438103" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="225" pc="268438119" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="226" pc="268438132" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="232" pc="268438151" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="233" pc="268438193" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="235" pc="268438264" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="237" pc="268438335" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="239" pc="268438406" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="241" pc="268438477" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="243" pc="268438519" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="246" pc="268438535" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="248" pc="268438562" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="249" pc="268438579" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="250" pc="268438596" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="252" pc="268438650" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="254" pc="268438725" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="256" pc="268438772" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="258" pc="268438802" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="259" pc="268438818" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="260" pc="268438831" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="262" pc="268438856" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="266" pc="268438886" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="267" pc="268438903" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="268" pc="268438920" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="270" pc="268438974" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="272" pc="268439049" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="274" pc="268439096" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="276" pc="268439126" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="277" pc="268439142" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="278" pc="268439155" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="280" pc="268439180" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="284" pc="268439210" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="286" pc="268439227" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="287" pc="268439227" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="289" pc="268439237" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="290" pc="268439244" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="292" pc="268439257" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="295" pc="268439264" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="298" pc="268439288" symbol="compute"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="305" pc="268439316" symbol="toStr"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="306" pc="268439320" symbol="toStr"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="307" pc="268439341" symbol="toStr"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="309" pc="268439353" symbol="toStr"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="314" pc="268439360" symbol="fmtTime"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="316" pc="268439364" symbol="fmtTime"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="318" pc="268439374" symbol="fmtTime"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="319" pc="268439399" symbol="fmtTime"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="320" pc="268439410" symbol="fmtTime"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="322" pc="268439434" symbol="fmtTime"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="326" pc="268439450" symbol="fmtTime"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="330" pc="268439489" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="332" pc="268439493" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="333" pc="268439500" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="336" pc="268439509" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="337" pc="268439522" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="338" pc="268439532" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="339" pc="268439545" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="340" pc="268439555" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="342" pc="268439568" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="343" pc="268439568" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="344" pc="268439579" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="346" pc="268439638" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="349" pc="268439671" symbol="fmtSecs"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="353" pc="268439675" symbol="toDist"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="354" pc="268439679" symbol="toDist"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="355" pc="268439686" symbol="toDist"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="358" pc="268439695" symbol="toDist"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="359" pc="268439705" symbol="toDist"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="363" pc="268439725" symbol="textL"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="364" pc="268439729" symbol="textL"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="365" pc="268439736" symbol="textL"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="369" pc="268439789" symbol="textR"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="370" pc="268439793" symbol="textR"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="371" pc="268439800" symbol="textR"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="375" pc="268439853" symbol="textC"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="376" pc="268439857" symbol="textC"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRView.mc" lineNum="377" pc="268439864" symbol="textC"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRApp.mc" lineNum="5" pc="268439917" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRApp.mc" lineNum="6" pc="268439921" symbol="initialize"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRApp.mc" lineNum="10" pc="268439940" symbol="onStart"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRApp.mc" lineNum="14" pc="268439945" symbol="onStop"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRApp.mc" lineNum="18" pc="268439950" symbol="getInitialView"/>
+<entry filename="/Users/dcroton/Documents/Eclipse/SnapshotHR/source/SnapshotHRApp.mc" lineNum="19" pc="268439954" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="24" symbol="arrayHRZone"/>
+<entry field="true" id="45" symbol="SecondFieldLabel"/>
+<entry field="true" id="26" symbol="aveHRValue"/>
+<entry id="31" method="true" symbol="fmtTime"/>
+<entry field="true" id="25" symbol="curPos"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="32" method="true" symbol="fmtSecs"/>
+<entry field="true" id="19" symbol="foregroundColour"/>
+<entry id="30" method="true" symbol="toStr"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry field="true" id="8388645" symbol="Time"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="12" symbol="firstField"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="27" symbol="aveHRCount"/>
+<entry field="true" id="28" symbol="HRmin"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="15" symbol="secondFieldMode"/>
+<entry field="true" id="17" symbol="bottomFieldMode"/>
+<entry field="true" id="29" symbol="HRmax"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="10" symbol="heartRateLabel"/>
+<entry field="true" id="44" symbol="AppName"/>
+<entry field="true" id="49" symbol="None"/>
+<entry field="true" id="22" symbol="arrayColours"/>
+<entry field="true" id="40" symbol="BottomFieldLabel"/>
+<entry field="true" id="39" symbol="LauncherIcon"/>
+<entry field="true" id="50" symbol="AveCadence"/>
+<entry field="true" id="8388646" symbol="Timer"/>
+<entry field="true" id="42" symbol="BlackBackgroundLabel"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="41" symbol="Cadence"/>
+<entry field="true" id="47" symbol="FirstFieldLabel"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="35" method="true" symbol="textR"/>
+<entry id="34" method="true" symbol="textL"/>
+<entry id="36" method="true" symbol="textC"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="14" symbol="secondField"/>
+<entry field="true" id="18" symbol="invertMiddleBackground"/>
+<entry id="33" method="true" symbol="toDist"/>
+<entry field="true" id="21" symbol="lineColour"/>
+<entry field="true" id="13" symbol="firstFieldMode"/>
+<entry field="true" id="11" symbol="heartRateZones"/>
+<entry field="true" id="23" symbol="arrayHRValue"/>
+<entry id="38" module="true" symbol="Layouts"/>
+<entry field="true" id="46" symbol="AveHeartRate"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="48" symbol="Battery"/>
+<entry id="8" object="true" symbol="SnapshotHRView"/>
+<entry field="true" id="20" symbol="backgroundColour"/>
+<entry id="37" module="true" symbol="Menus"/>
+<entry field="true" id="51" symbol="Distance"/>
+<entry field="true" id="8388960" symbol="heartRate"/>
+<entry id="9" object="true" symbol="SnapshotHRApp"/>
+<entry field="true" id="16" symbol="bottomField"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="43" symbol="InvertMiddleBackgroundLabel"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435991" name="i" stackId="3" startPc="268435946"/>
+<entry endPc="268436144" name="background" stackId="2" startPc="268435460"/>
+<entry endPc="268436144" name="usePreferences" stackId="1" startPc="268435460"/>
+<entry endPc="268436926" name="i" stackId="4" startPc="268436635"/>
+<entry endPc="268437078" name="scaling" stackId="3" startPc="268436164"/>
+<entry endPc="268437078" name="ii" stackId="2" startPc="268436164"/>
+<entry endPc="268437918" name="i" stackId="2" startPc="268437792"/>
+<entry endPc="268439285" name="time" stackId="3" startPc="268439227"/>
+<entry endPc="268439488" name="h" stackId="2" startPc="268439364"/>
+<entry endPc="268439674" name="fmt" stackId="5" startPc="268439493"/>
+<entry endPc="268439674" name="hours" stackId="3" startPc="268439493"/>
+<entry endPc="268439674" name="minutes" stackId="4" startPc="268439493"/>
+<entry endPc="268439674" name="s" stackId="2" startPc="268439493"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="SnapshotHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="SnapshotHRView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="SnapshotHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="SnapshotHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="SnapshotHRView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="compute" parent="SnapshotHRView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="toStr" parent="SnapshotHRView">
+<param id="o"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="fmtTime" parent="SnapshotHRView">
+<param id="clock"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="fmtSecs" parent="SnapshotHRView">
+<param id="secs"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="toDist" parent="SnapshotHRView">
+<param id="dist"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="textL" parent="SnapshotHRView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="s"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="textR" parent="SnapshotHRView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="s"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="textC" parent="SnapshotHRView">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="s"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="SnapshotHRApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="SnapshotHRApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="SnapshotHRApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="SnapshotHRApp">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

@@ -1,0 +1,62 @@
+<resources>
+
+	<properties>
+		<property id="blackBackground" type="boolean">true</property>
+		<property id="invertMiddleBackground" type="boolean">true</property>
+		<property id="firstFieldMode" type="number">2</property>
+		<property id="secondFieldMode" type="number">0</property>
+		<property id="bottomFieldMode" type="number">0</property>
+	</properties>
+
+	<strings>
+		<string id="BlackBackgroundLabel">Use black background</string>
+		<string id="InvertMiddleBackgroundLabel">Invert background of graph</string>
+		<string id="FirstFieldLabel">Top left-side field</string>
+		<string id="SecondFieldLabel">Top right-side field</string>
+		<string id="BottomFieldLabel">Bottom field</string>
+		<string id="Time">Time-Of-Day</string>
+		<string id="Battery">Battery Percent</string>
+		<string id="AveHeartRate">Average Heart Rate</string>
+		<string id="Cadence">Cadence</string>
+		<string id="AveCadence">Average Cadence</string>
+		<string id="Timer">Timer</string>
+		<string id="Distance">Distance</string>
+		<string id="None">NONE</string>
+	</strings>
+
+	<settings>
+		<setting propertyKey="@Properties.blackBackground" title="@Strings.BlackBackgroundLabel">
+			<settingConfig type="boolean" />
+		</setting>
+		<setting propertyKey="@Properties.invertMiddleBackground" title="@Strings.InvertMiddleBackgroundLabel">
+			<settingConfig type="boolean" />
+		</setting>
+		<setting propertyKey="@Properties.firstFieldMode" title="@Strings.FirstFieldLabel">
+			<settingConfig type="list" required="true">
+				<listEntry value="-1">@Strings.None</listEntry>
+				<listEntry value="0">@Strings.Time</listEntry>
+				<listEntry value="1">@Strings.Battery</listEntry>
+				<listEntry value="2">@Strings.AveHeartRate</listEntry>
+				<listEntry value="3">@Strings.Cadence</listEntry>
+				<listEntry value="4">@Strings.AveCadence</listEntry>
+			</settingConfig>
+		</setting>
+		<setting propertyKey="@Properties.secondFieldMode" title="@Strings.SecondFieldLabel">
+			<settingConfig type="list" required="true">
+				<listEntry value="-1">@Strings.None</listEntry>
+				<listEntry value="0">@Strings.Time</listEntry>
+				<listEntry value="1">@Strings.Battery</listEntry>
+				<listEntry value="2">@Strings.AveHeartRate</listEntry>
+				<listEntry value="3">@Strings.Cadence</listEntry>
+				<listEntry value="4">@Strings.AveCadence</listEntry>
+			</settingConfig>
+		</setting>
+		<setting propertyKey="@Properties.bottomFieldMode" title="@Strings.BottomFieldLabel">
+			<settingConfig type="list" required="true">
+				<listEntry value="0">@Strings.Timer</listEntry>
+				<listEntry value="1">@Strings.Distance</listEntry>
+			</settingConfig>
+		</setting>
+	</settings>
+
+</resources>
