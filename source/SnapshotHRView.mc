@@ -208,12 +208,8 @@ class SnapshotHRView extends Ui.DataField {
 				HRmax = (HRmax * 1.1).toNumber();
 				HRmin = (HRmin * 0.9).toNumber();
 		
-				if(HRmax > 200) {
-					HRmax = 200;
-				}
-				if(HRmin < 110) {
-					HRmin = 110;
-				}
+				if(HRmax > heartRateZones[5]) { HRmax = heartRateZones[5]; }
+				if(HRmin < heartRateZones[0]) { HRmin = heartRateZones[0]; }
 
 //				Sys.println("" + curPos + " " + arrayHRValue[curPos] + " " + arrayHRZone[curPos] + " " + HRmin + " " + HRmax);
 
