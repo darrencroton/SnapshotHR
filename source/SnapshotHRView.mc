@@ -29,6 +29,8 @@ class SnapshotHRView extends Ui.DataField {
 	var aveHRCount;
 	var HRmin;
 	var HRmax;
+	var HRmid;
+	
 
 	function initialize() {
 
@@ -44,7 +46,8 @@ class SnapshotHRView extends Ui.DataField {
 		
 		heartRateZones = User.getHeartRateZones(User.getCurrentSport());
 //		heartRateZones = [98, 127, 146, 166, 185, 195];
-// Sys.println("" + heartRateZones[0] + " " + heartRateZones[1] + " " + heartRateZones[2] + " " + heartRateZones[3] + " " + heartRateZones[4] + " " + heartRateZones[5]);
+
+		HRmid = ( heartRateZones[1] + (heartRateZones[5]-heartRateZones[1])*0.5 ).toNumber();
 
 		if (usePreferences == 1) {
 			background = Application.getApp().getProperty("blackBackground");
@@ -190,8 +193,8 @@ class SnapshotHRView extends Ui.DataField {
 					arrayHRZone[curPos] = 4;
 				}
 
-				HRmin = 155;
-				HRmax = 145;
+				HRmin = HRmid + 5;
+				HRmax = HRmid - 5;
 
         		for (var i = 0; i < arrayHRValue.size(); ++i) {
         			if(arrayHRZone[i] >=0) {
@@ -205,11 +208,11 @@ class SnapshotHRView extends Ui.DataField {
         			}        		
 				}
 
-				HRmax = (HRmax * 1.1).toNumber();
-				HRmin = (HRmin * 0.9).toNumber();
-		
-				if(HRmax > heartRateZones[5]) { HRmax = heartRateZones[5]; }
-				if(HRmin < heartRateZones[0]) { HRmin = heartRateZones[0]; }
+				HRmin = HRmin - 5;
+				if(HRmin < heartRateZones[0]) { HRmin = heartRateZones[0]; }  // set floor
+
+				HRmax = HRmax + 5;
+				if(HRmax > heartRateZones[5] + 5) { HRmax = heartRateZones[5] + 5; }  // clip spikes
 
 //				Sys.println("" + curPos + " " + arrayHRValue[curPos] + " " + arrayHRZone[curPos] + " " + HRmin + " " + HRmax);
 
