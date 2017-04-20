@@ -100,19 +100,11 @@ class SnapshotHRView extends Ui.DataField {
 		textC(dc, 106, 33, Gfx.FONT_NUMBER_HOT, heartRate);
 
 		if (firstFieldMode >= 0) {
-//			if (firstFieldMode == 0) {
-//				textL(dc, 15, 44, Gfx.FONT_NUMBER_MILD, firstField);
-//			} else {
-				textL(dc, 13, 46, Gfx.FONT_LARGE, firstField);
-//			}
+			textL(dc, 13, 46, Gfx.FONT_LARGE, firstField);
 		}
 		
 		if (secondFieldMode >= 0) {
-//			if (secondFieldMode == 0) {
-//				textR(dc, 199, 44, Gfx.FONT_NUMBER_MILD, secondField);
-//			} else {				
-				textR(dc, 201, 46, Gfx.FONT_LARGE, secondField);
-//			}
+			textR(dc, 201, 46, Gfx.FONT_LARGE, secondField);
 		}
 
 		textC(dc, 107.5, 160, Gfx.FONT_NUMBER_MEDIUM, bottomField);
@@ -208,11 +200,11 @@ class SnapshotHRView extends Ui.DataField {
         			}        		
 				}
 
-				HRmin = HRmin - 5;
-				if(HRmin < heartRateZones[0]) { HRmin = heartRateZones[0]; }  // set floor
+				HRmin = HRmin - 10;
+				if(HRmin < heartRateZones[0] + 5) { HRmin = heartRateZones[0] + 5; }  // set floor just above min HR
 
-				HRmax = HRmax + 5;
-				if(HRmax > heartRateZones[5] + 5) { HRmax = heartRateZones[5] + 5; }  // clip spikes
+				HRmax = HRmax + 10;
+				if(HRmax > heartRateZones[5] + 5) { HRmax = heartRateZones[5] + 5; }  // clip spikes just above max HR
 
 //				Sys.println("" + curPos + " " + arrayHRValue[curPos] + " " + arrayHRZone[curPos] + " " + HRmin + " " + HRmax);
 
