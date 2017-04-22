@@ -47,7 +47,7 @@ class SnapshotHRView extends Ui.DataField {
 		heartRateZones = User.getHeartRateZones(User.getCurrentSport());
 //		heartRateZones = [98, 127, 146, 166, 185, 195];
 
-		HRmid = ( heartRateZones[1] + (heartRateZones[5]-heartRateZones[1])*0.5 ).toNumber();
+		HRmid = ( heartRateZones[0] + (heartRateZones[5]-heartRateZones[0])*0.5 ).toNumber();
 
 		if (usePreferences == 1) {
 			background = Application.getApp().getProperty("blackBackground");
