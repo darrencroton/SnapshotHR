@@ -200,10 +200,10 @@ class SnapshotHRView extends Ui.DataField {
         			}        		
 				}
 
-				HRmin = HRmin - 10;
-				if(HRmin < heartRateZones[0] + 5) { HRmin = heartRateZones[0] + 5; }  // set floor just above min HR
+				HRmin = HRmin - 15;
+				if(HRmin < heartRateZones[0] + 10) { HRmin = heartRateZones[0] + 10; }  // set floor just above min HR
 
-				HRmax = HRmax + 10;
+				HRmax = HRmax + 15;
 				if(HRmax > heartRateZones[5] + 5) { HRmax = heartRateZones[5] + 5; }  // clip spikes just above max HR
 
 //				Sys.println("" + curPos + " " + arrayHRValue[curPos] + " " + arrayHRZone[curPos] + " " + HRmin + " " + HRmax);
@@ -275,7 +275,7 @@ class SnapshotHRView extends Ui.DataField {
 		if (bottomFieldMode == 0) {
 		
 			var time;
-			time = info.elapsedTime;
+			time = info.timerTime;
 	
 			if (time != null) {
 				time /= 1000;
